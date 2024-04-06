@@ -21,3 +21,10 @@
   1. VAR 230%
   2. VARMAX 236%
   3. LSTM+CNN 183%
+
+* 업로드 못한 파일
+The push operation includes a file which exceeds GitHub's file size restriction of 100MB. Please remove the file from history and try again.
+
+File causing error:
+
+코드/varmax_update.pkl (190.61 MB)
