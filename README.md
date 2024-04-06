@@ -18,8 +18,6 @@
 |변수 선택 방법|Granger Causality 인과성 검정|
 
 * 결과/평가 (벤치마크 누적수익률 159%)
-> VAR 230%
-
-> VARMAX 236%
-
-> LSTM+CNN 183%
+  1. VAR 230%
+  2. VARMAX 236%
+  3. LSTM+CNN 183%
